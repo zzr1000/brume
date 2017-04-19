@@ -4,11 +4,11 @@ I am not a designer so I cannot impress you with breathtaking Jekyll themes, but
 
 This is how the "Home" page looks like.
 
-![Home](https://dl.dropboxusercontent.com/u/9924988/Screen%20Shot%202014-02-26%20at%2018.48.57.png)
+![Home](https://www.google.ae/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png)
 
 And this is a single post.
 
-![Home](https://dl.dropboxusercontent.com/u/9924988/Screen%20Shot%202014-04-06%20at%2012.56.08.png)
+![Home](https://www.google.ae/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png)
 
 ## Usage
 
@@ -34,7 +34,7 @@ This theme has 4 predefined colors that can be used for links:
 - amber
 - avocado
 
-![Color Examples](https://dl.dropboxusercontent.com/u/9924988/colors_new.png)
+![Color Examples](https://www.google.ae/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png)
 
 By default it uses *azure*, but if you want to select another one just change the second class of `container` div in *_layouts/default.html* to one of the provided names.
 
